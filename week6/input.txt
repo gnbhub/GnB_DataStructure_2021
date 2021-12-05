@@ -1,0 +1,3 @@
+2009	"Avatar"	"Steven Spielberg"
+2008	"Iron Man"	"Jon Favreau"
+1984	"The Terminator"	"James Cameron"
